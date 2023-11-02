@@ -1,0 +1,5 @@
+// The program input for guess_the_number/src/main.leo
+[guessTransition]
+minNum: i128 = 5i128;
+maxNum: i128 = 10i128;
+guess: i128 = 7i128;
